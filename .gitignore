@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+Automotive_5.json
+neg.txt
+pos.txt
+northwind2000-simplified.sqlite
+stopwords-en.txt
