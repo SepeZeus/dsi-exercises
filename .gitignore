@@ -222,3 +222,5 @@ pos.txt
 northwind2000-simplified.sqlite
 stopwords-en.txt
 titanic-dataset.csv
+titanic-clean.csv
+titanic-clean.json
