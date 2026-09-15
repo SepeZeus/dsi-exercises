@@ -224,3 +224,14 @@ stopwords-en.txt
 titanic-dataset.csv
 titanic-clean.csv
 titanic-clean.json
+.virtual_documents/exercises3.ipynb
+ex3/cities/cities.cpg
+ex3/cities/cities.dbf
+ex3/cities/cities.prj
+ex3/cities/cities.shp
+ex3/cities/cities.shx
+ex3/world_m/world_m.cpg
+ex3/world_m/world_m.dbf
+ex3/world_m/world_m.prj
+ex3/world_m/world_m.shp
+ex3/world_m/world_m.shx
